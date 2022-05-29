@@ -1,0 +1,16 @@
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.exe
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.deps.json
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.json
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.runtimeconfig.dev.json
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.dll
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\bin\Debug\net5.0\ProjetoElevador.pdb
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.AssemblyReference.cache
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.GeneratedMSBuildEditorConfig.editorconfig
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfoInputs.cache
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.AssemblyInfo.cs
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.csproj.CoreCompileInputs.cache
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.dll
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\refint\ProjetoElevador.dll
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.pdb
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ProjetoElevador.genruntimeconfig.cache
+D:\YALLiS\Documents\CSharp\MVC\ProjetoElevador\ProjetoElevador\obj\Debug\net5.0\ref\ProjetoElevador.dll
